@@ -1,3 +1,4 @@
+// Chore: minor meta update for clean commit
 import React from 'react';
 import './AboutUs.css';
 

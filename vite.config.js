@@ -1,3 +1,4 @@
+// Chore: minor meta update for clean commit
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 

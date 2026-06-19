@@ -1,3 +1,4 @@
+// Chore: minor meta update for clean commit
 import { createSlice } from '@reduxjs/toolkit';
 
 export const CartSlice = createSlice({
